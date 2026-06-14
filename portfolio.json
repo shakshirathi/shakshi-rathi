@@ -3,18 +3,6 @@
   "carousels": [],
   "collections": [
     {
-      "id": "col-1781435745379",
-      "name": "22",
-      "category": "bridal",
-      "photos": [
-        "https://res.cloudinary.com/dbbsfsauv/image/upload/v1781435676/shakshi_portfolio/IMG_9830_mt42ql.jpg",
-        "https://res.cloudinary.com/dbbsfsauv/image/upload/v1781435677/shakshi_portfolio/IMG_9828_tugsdm.jpg",
-        "https://res.cloudinary.com/dbbsfsauv/image/upload/v1781435684/shakshi_portfolio/IMG_9807_ekvwpc.jpg",
-        "https://res.cloudinary.com/dbbsfsauv/image/upload/v1781435685/shakshi_portfolio/IMG_9806_dy3i6b.jpg"
-      ],
-      "date": "2026-06-14T11:15:45.379Z"
-    },
-    {
       "id": "col-1781435700475",
       "name": "11",
       "category": "bridal",
