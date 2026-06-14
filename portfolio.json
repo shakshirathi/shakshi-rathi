@@ -96,6 +96,16 @@
   ],
   "collections": [
     {
+      "id": "col-1781437488591",
+      "name": "22",
+      "category": "bridal",
+      "photos": [
+        "https://res.cloudinary.com/dbbsfsauv/image/upload/v1781437422/shakshi_portfolio/IMG_9831_d03svb.jpg",
+        "https://res.cloudinary.com/dbbsfsauv/image/upload/v1781437421/shakshi_portfolio/IMG_9832_qmn8af.jpg"
+      ],
+      "date": "2026-06-14T11:44:48.591Z"
+    },
+    {
       "id": "col-1781437464603",
       "name": "22",
       "category": "bridal",
