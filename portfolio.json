@@ -1,5 +1,83 @@
 {
-  "photos": [],
+  "photos": [
+    {
+      "id": "ph-1781437434320-pkk3f5ffiq",
+      "url": "https://res.cloudinary.com/dbbsfsauv/image/upload/v1781437433/shakshi_portfolio/IMG_9805_jbqexx.jpg",
+      "category": "bridal",
+      "visibility": "seemore",
+      "date": "2026-06-14T11:43:54.320Z"
+    },
+    {
+      "id": "ph-1781437434320-m5871xti4j8",
+      "url": "https://res.cloudinary.com/dbbsfsauv/image/upload/v1781437431/shakshi_portfolio/IMG_9806_oycsk4.jpg",
+      "category": "bridal",
+      "visibility": "seemore",
+      "date": "2026-06-14T11:43:54.320Z"
+    },
+    {
+      "id": "ph-1781437434320-shkifjny6mk",
+      "url": "https://res.cloudinary.com/dbbsfsauv/image/upload/v1781437430/shakshi_portfolio/IMG_9807_mnvnvj.jpg",
+      "category": "bridal",
+      "visibility": "seemore",
+      "date": "2026-06-14T11:43:54.320Z"
+    },
+    {
+      "id": "ph-1781437434320-anik6tkq76n",
+      "url": "https://res.cloudinary.com/dbbsfsauv/image/upload/v1781437429/shakshi_portfolio/IMG_9808_n0kgaj.jpg",
+      "category": "bridal",
+      "visibility": "seemore",
+      "date": "2026-06-14T11:43:54.320Z"
+    },
+    {
+      "id": "ph-1781437434320-mj3fq1myjhc",
+      "url": "https://res.cloudinary.com/dbbsfsauv/image/upload/v1781437428/shakshi_portfolio/IMG_9809_rtsqyv.jpg",
+      "category": "bridal",
+      "visibility": "seemore",
+      "date": "2026-06-14T11:43:54.320Z"
+    },
+    {
+      "id": "ph-1781437434320-40pwvirfg9l",
+      "url": "https://res.cloudinary.com/dbbsfsauv/image/upload/v1781437427/shakshi_portfolio/IMG_9810_bjoyvs.jpg",
+      "category": "bridal",
+      "visibility": "seemore",
+      "date": "2026-06-14T11:43:54.320Z"
+    },
+    {
+      "id": "ph-1781437434320-3it3e95z6q3",
+      "url": "https://res.cloudinary.com/dbbsfsauv/image/upload/v1781437426/shakshi_portfolio/IMG_9811_uyjwlw.jpg",
+      "category": "bridal",
+      "visibility": "seemore",
+      "date": "2026-06-14T11:43:54.320Z"
+    },
+    {
+      "id": "ph-1781437434320-taa71apzec",
+      "url": "https://res.cloudinary.com/dbbsfsauv/image/upload/v1781437424/shakshi_portfolio/IMG_9828_tm9zqt.jpg",
+      "category": "bridal",
+      "visibility": "seemore",
+      "date": "2026-06-14T11:43:54.320Z"
+    },
+    {
+      "id": "ph-1781437434320-wjyjdzza6hf",
+      "url": "https://res.cloudinary.com/dbbsfsauv/image/upload/v1781437423/shakshi_portfolio/IMG_9830_aok4yy.jpg",
+      "category": "bridal",
+      "visibility": "seemore",
+      "date": "2026-06-14T11:43:54.320Z"
+    },
+    {
+      "id": "ph-1781437434320-zanpovr7rc",
+      "url": "https://res.cloudinary.com/dbbsfsauv/image/upload/v1781437422/shakshi_portfolio/IMG_9831_d03svb.jpg",
+      "category": "bridal",
+      "visibility": "seemore",
+      "date": "2026-06-14T11:43:54.320Z"
+    },
+    {
+      "id": "ph-1781437434320-l4ksniazi4a",
+      "url": "https://res.cloudinary.com/dbbsfsauv/image/upload/v1781437421/shakshi_portfolio/IMG_9832_qmn8af.jpg",
+      "category": "bridal",
+      "visibility": "seemore",
+      "date": "2026-06-14T11:43:54.320Z"
+    }
+  ],
   "carousels": [
     {
       "id": "car-1781437401061",
